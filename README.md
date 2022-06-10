@@ -30,17 +30,17 @@ SECCIÓN 5–1 Resistores en serie
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/2.png)
 
 4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/4.png)
 
 SECCIÓN 5–2 Corriente en un circuito en serie
 
 6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/6.png)
 
 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 
@@ -50,79 +50,79 @@ SECCIÓN 5–3 Resistencia total en serie
 
 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/10.png)
 
 12. Calcule la RT en cada circuito de la figura 5-71.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/12.png)
 
 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total? 
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/14.png)
 
 16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/16.png)
 
 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/18.png)
 
 SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/20.png)
 
 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/22.png)
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/24.png)
 
 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/26.png)
 
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/28.png)
 
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/30.png)
 
 32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/32.png)
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/34.png)
 
 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/36.png)
 
 SECCIÓN 5–7 Divisores de voltaje
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/38.png)
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/40.png)
 
 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/42.png)
 
 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
 
@@ -132,19 +132,21 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/46.png)
 
 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/48.png)
 
 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+
+![](
 
 SECCIÓN 5–9 Mediciones de voltaje
 
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/52.png)
 
 SECCIÓN 5–10 Localización de fallas
 
@@ -154,7 +156,7 @@ Puede que aparezca un resistor abierto y en ese caso se medirá el voltaje direc
 
 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/56.png)
 
 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 
