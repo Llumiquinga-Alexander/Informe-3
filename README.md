@@ -284,7 +284,7 @@ SECCIÓN 6–10 Localización de fallas
 
 Video
 
-https://www.youtube.com/watch?v=Wd_N3bUbxS0
+https://www.youtube.com/watch?v=XimVPTPSs1Y
 
 Conclusiones
 
