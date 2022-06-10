@@ -126,7 +126,7 @@ SECCIÓN 5–7 Divisores de voltaje
 
 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
 
-![](
+La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
 
 SECCIÓN 5–8 Potencia en circuitos en serie
 
@@ -140,7 +140,7 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 
 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/50.png)
 
 SECCIÓN 5–9 Mediciones de voltaje
 
@@ -160,11 +160,13 @@ Puede que aparezca un resistor abierto y en ese caso se medirá el voltaje direc
 
 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/58.png)
+
+En esta placa las resistencias R12 ,R9 ,R5 y R3 estan conectadas en serie en las puntas nombradas por tanto la resistencia total es la sumatoria de estas dando asi 15kΩ. En cambio en el enunciado la resistencia es otra, concluyendo que esta mal.
 
 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/60.png)
 
 SECCIÓN 6–1 Resistores en paralelo
 
@@ -194,7 +196,7 @@ SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un corta circuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/12.1.png)
 
 SECCIÓN 6–4 Resistencia total en paralelo
 
@@ -240,7 +242,7 @@ SECCIÓN 6–6 Fuentes de corriente en paralelo
 
 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/32.1.png)
 
 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
 
@@ -248,13 +250,13 @@ SECCIÓN 6–6 Fuentes de corriente en paralelo
 
 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM  50 Ω).
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/36.1.png)
 
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/38.1.png)
 
 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
@@ -262,7 +264,7 @@ SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/42.1.png)
 
 SECCIÓN 6–10 Localización de fallas
 
@@ -276,7 +278,7 @@ SECCIÓN 6–10 Localización de fallas
 
 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/48.1.png)
 
 Video
 
@@ -286,7 +288,7 @@ Conclusiones
 
 En la realizacion de los ejercicios pertenecientes a los capitulos 5 y 6 aprendi las diferencias que hay entre los circuitos en serie y en paralelo, ademas, percibi las caracteristicas que hacen que cada tipo de circuito pueda tener una mayor eficiencia en diferentes circunstancias.
 
-Logramos determinar cuanta energia puede siministrar una pila antes de convertir su energia quimica en energia electrica, ademas, como hay cierta cantidad de energia que se pierde en forma de calor y como puede bajar la eficiencia .
+Al termino de estos dos capitulos logramos comprender de mejor manera cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en paralelo,  ademas, conocimos las distintas aplicaciones que tiene la ley de ohm en esta clase de circuito.
 
 Bibliografias
 
