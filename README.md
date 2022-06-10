@@ -20,9 +20,11 @@ Adquirir los conocimientos necesarios para saber que formula o procedimiento usa
 
 Márco teórico:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/mapa%202.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/Mapa%201.png)
+
+![](https://github.com/Llumiquinga-Alexander/Informe-3/blob/main/mapa%203.png)
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
