@@ -290,7 +290,7 @@ Conclusiones
 
 En la realizacion de los ejercicios pertenecientes a los capitulos 5 y 6 aprendi las diferencias que hay entre los circuitos en serie y en paralelo, ademas, percibi las caracteristicas que hacen que cada tipo de circuito pueda tener una mayor eficiencia en diferentes circunstancias.
 
-Al termino de estos dos capitulos logramos comprender de mejor manera cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en paralelo,  ademas, conocimos las distintas aplicaciones que tiene la ley de ohm en esta clase de circuito.
+Al termino de estos dos capitulos logramos comprender de mejor manera cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en serie y paralelo,  ademas, conocimos las distintas aplicaciones que tiene la ley de ohm en esta clase de circuito.
 
 Bibliografias
 
